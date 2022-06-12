@@ -30,5 +30,11 @@ html, body {
     background-color: dimgrey;
     border-radius: 8px;
     padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: #ddd;
 }
 
